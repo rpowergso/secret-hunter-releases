@@ -4,4 +4,4 @@ Secret Hunter is an unofficial multiplayer minigame for Minecraft Java Edition 2
 
 **Status:** Beta in testing. Download pending.
 
-Maintained by rpowergso with AI assistance. Inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).
+rpowergso directed development and tested the project. The plugin code was generated using AI. Inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).

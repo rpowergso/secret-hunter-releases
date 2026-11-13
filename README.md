@@ -39,10 +39,10 @@ During a hunt, players can use `/alert` to share their coordinates, `/emergency`
 
 The configuration controls the number of hunters, countdown, world borders, tracking, player-list visibility, and loot. By default, preparing a round clears online players’ inventories. World resets retain previous world files, so repeated resets increase disk use.
 
-## Feedback
-
-For bug reports, include your Minecraft, Paper, and Java versions and the steps to reproduce the issue. [GitHub Issues](https://github.com/rpowergso/secret-hunter-releases/issues)
-
 ## Credits
 
 Inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).
+
+## Bugs and feedback
+
+[Report a bug](https://github.com/rpowergso/secret-hunter-releases/issues/new?template=bug_report.yml) · [Share feedback or suggest a feature](https://github.com/rpowergso/secret-hunter-releases/issues/new?template=feedback.yml)

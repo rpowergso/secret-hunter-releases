@@ -39,10 +39,10 @@ During a hunt, players can use `/alert` to share their coordinates, `/emergency`
 
 The configuration controls the number of hunters, countdown, world borders, tracking, player-list visibility, and loot. By default, preparing a round clears online players’ inventories. World resets retain previous world files, so repeated resets increase disk use.
 
-## Beta status and feedback
+## Feedback
 
-Server startup, world creation, fresh-seed reset, and the two-player minimum were verified on Paper 26.3 build 249 with Java 26. A full multiplayer round and compass behavior still need live testing. For bug reports, include your Minecraft, Paper, and Java versions and the steps to reproduce the issue. [GitHub Issues](https://github.com/rpowergso/secret-hunter-releases/issues)
+For bug reports, include your Minecraft, Paper, and Java versions and the steps to reproduce the issue. [GitHub Issues](https://github.com/rpowergso/secret-hunter-releases/issues)
 
 ## Credits
 
-Rafi Mintz (rpowergso) directed development and tested the plugin. The plugin code was generated using AI. Secret Hunter is an unofficial Minecraft project inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).
+Rafi Mintz (rpowergso) directed development and tested the plugin. Secret Hunter is an unofficial Minecraft project inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).

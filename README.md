@@ -45,4 +45,4 @@ For bug reports, include your Minecraft, Paper, and Java versions and the steps 
 
 ## Credits
 
-Rafi Mintz (rpowergso) directed development and tested the plugin. Secret Hunter is an unofficial Minecraft project inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).
+Inspired by [zorato’s Secret Hunter series](https://www.youtube.com/watch?v=JaN_pfpr1tE).
